@@ -5,4 +5,4 @@ export default {
     //  ---- Prod ---- ///      https://app.snapdebtcollections.com/auth/login
     //   ----Stag ----///       http://snapdebt.carbonteq.com/auth/login
 
-}
+}   

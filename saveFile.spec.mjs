@@ -7,7 +7,7 @@ import {test} from '@playwright/test'
   
         
   await page.goto('https://www.rapidtables.com/tools/notepad.html');
-
+   
   //await page.waitForTimeout(500);
 
   await page.type('textarea[name="S1"]', 'Admin Agency--:');

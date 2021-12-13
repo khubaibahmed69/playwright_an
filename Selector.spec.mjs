@@ -8,4 +8,4 @@
  //////     page.click('[aria-label="search"]') -------- selecting by area-label
  //////     page.click('xpath=//button')    ---------- by xpath
  ///////    page.click(':nth-match(:text("Buy"), 3)');   ----- choosing n th selector
- 
+      

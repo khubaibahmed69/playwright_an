@@ -8,4 +8,4 @@ test(' CollectionAgent ', async ({ page }) => {
     PlaywrightBlocker.fromPrebuiltAdsAndTracking(fetch).then((blocker) => {
         blocker.enableBlockingInPage(page);
     });
-});
+});    

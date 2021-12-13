@@ -15,4 +15,4 @@ test('mera test' , async ({page}) => {
     await page.waitForTimeout(2000);
     console.log(value);
     expect(value).toBeTruthy();
-});
+});   

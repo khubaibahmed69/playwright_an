@@ -8,7 +8,7 @@ const config = {
       timeout:10000000,
       use: 
       {
-        browserName: 'chromium',
+        browserName: 'chromium',   
         headless : false,
         acceptDownloads:true,           
       },
