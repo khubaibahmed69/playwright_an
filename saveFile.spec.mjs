@@ -13,7 +13,7 @@ import {test} from '@playwright/test'
   await page.type('textarea[name="S1"]', 'Admin Agency--:');
   await page.type('textarea[name="S1"]', 'aoaaaa');
   await page.keyboard.press('Enter');
-  await page.type('textarea[name="S1"]', 'Password--:Testing123$$');
+  await page.type('textarea[name="S1"]', 'Password--:Test');
   await page.press('textarea[name="S1"]', 'Tab');
 
 
